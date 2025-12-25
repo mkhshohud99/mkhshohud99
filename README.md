@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img width="1584" height="396" alt="Purple and Pink Minimalist Front-End Developer LinkedIn Banner" src="https://github.com/user-attachments/assets/7da6107f-2f7f-4198-95cf-e999cc9df669" />
 
 <!--
 **mkhshohud99/mkhshohud99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
