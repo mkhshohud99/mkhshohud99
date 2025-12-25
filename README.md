@@ -1,7 +1,7 @@
 ## Hi there 👋
-I'm Md. Kawsar Hussen Shohud
-MERN Stack And WEB Developer
-From Sylhet, Bangladesh.
+I'm Md. Kawsar Hussen Shohud <br.
+MERN Stack And WEB Developer <br.
+From Sylhet, Bangladesh. <br.
 <img width="1584" height="396" alt="Purple and Pink Minimalist Front-End Developer LinkedIn Banner" src="https://github.com/user-attachments/assets/7da6107f-2f7f-4198-95cf-e999cc9df669" />
 
 <!--
